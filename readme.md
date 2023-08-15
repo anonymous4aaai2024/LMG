@@ -1,9 +1,11 @@
 ## LMG
 
-<div align=center><img src="assets/overview.png"></div>
+<div align=center><img src="assets/overview.jpg"></div>
 
 ## Credits
-This repository is build upon [*SCAN*](https://github.com/kuanghuei/SCAN) (Lee et al.) and [*NAAF*](https://github.com/CrossmodalGroup/NAAF) (Zhang et al.). We express our sincere gratitude to the researchers for providing their code, which has been instrumental in the development of this project.
+This repository is build upon [*SCAN*](https://github.com/kuanghuei/SCAN) (Lee et al.) and [*NAAF*](https://github.com/CrossmodalGroup/NAAF) (Zhang et al.).
+We express our sincere gratitude to the researchers for providing their code, which has been instrumental in the
+development of this project.
 
 ## Environment Configuration
 ```shell
